@@ -1,0 +1,5 @@
+print("Hola, mundo")
+print("Felipe, analista de datos")
+print("quiero aprender sobre automatizacion de tareas, implementando IA")
+print("quisiera predecir fraudes y riesgos, con mas exactitud para mi sitio web")
+print("buenas noches")
